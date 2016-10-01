@@ -1,2 +1,2 @@
 # Archiver
-Archiver can ZIP and unZIP your files fast
+Archiver can ZIP and unZIP your files quickly.
